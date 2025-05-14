@@ -69,7 +69,7 @@ npm run dev
 ```
 
 📸 Screenshot
-![Todo App]{contextLocal\public\Screenshot 2025-05-14 184344.png}
+![Todo App]{public\Screenshot 2025-05-14 184344.png}
 
 🙌 Author
 Tejas Kangule
